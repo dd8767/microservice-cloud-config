@@ -75,5 +75,5 @@ eureka:
     instanceId: ${spring.application.name}:${server.port} # 指定实例ID,就不会显示主机名了
 
 emp:
-  name: zhangsan
+  name: lisi
 
